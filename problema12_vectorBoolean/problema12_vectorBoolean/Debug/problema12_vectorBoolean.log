@@ -1,0 +1,8 @@
+﻿  IteratorMultime.cpp
+  main.cpp
+  Multime.cpp
+  TestExtins.cpp
+  TextScurt.cpp
+  Generating Code...
+c:\users\polizei\desktop\sda restanta\problema12_vectorboolean\problema12_vectorboolean\iteratormultime.cpp(74): warning C4715: 'IteratorMultime::element': not all control paths return a value
+  problema12_vectorBoolean.vcxproj -> C:\Users\Polizei\Desktop\SDA Restanta\problema12_vectorBoolean\Debug\problema12_vectorBoolean.exe
